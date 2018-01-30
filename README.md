@@ -1,4 +1,4 @@
-## GMAE Dò Mìn
+## GAME Dò Mìn
 **Bài cuối kỳ Lập trinh game và mô phỏng**
 
 **Nguyễn Thanh Thảo - 14ĐC077**
